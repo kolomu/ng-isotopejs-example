@@ -1,0 +1,6 @@
+<h2>Name: {{character.name}}</h2>
+<button (click)="toggleInfo()">Show Info</button>
+<div *ngIf="isToggled">
+<p style="width: 350px;">{{character.bio}}</p>
+<img [src]="character.imagePath">
+</div>
