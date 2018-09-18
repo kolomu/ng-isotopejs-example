@@ -23,9 +23,7 @@ export class AppComponent {
       new Character('Wolverine', 'assets/hero4.jpg')
     ];
 
-    this.villains = [
-
-    ];
+    this.villains = [];
   }
 
 }
