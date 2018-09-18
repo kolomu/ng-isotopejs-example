@@ -21,6 +21,10 @@
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
+    "imagesloaded": "^4.1.4",
+    "isotope-layout": "^3.0.6",
+    "masonry-layout": "^4.2.2",
+    "ngx-isotope": "^0.1.7",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
